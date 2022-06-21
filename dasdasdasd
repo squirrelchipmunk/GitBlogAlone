@@ -1,0 +1,31 @@
+[33mcommit e41f7b4487c056f5b5d03b8973817dde926f9c9f[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Merge: 6d58c97 ecb5fef
+Author: squirrel <ggoong8@gmail.com>
+Date:   Tue Jun 21 22:08:00 2022 +0900
+
+    Merge branch 'join_topic' into dev
+
+[33mcommit ecb5fef48f2e9c142693030b92ba47f45cae9d0a[m[33m ([m[1;32mjoin_topic[m[33m)[m
+Author: squirrel <ggoong8@gmail.com>
+Date:   Tue Jun 21 22:03:55 2022 +0900
+
+    회원가입 완료
+
+[33mcommit 6d58c972f47ed9a68815550128a2d8f0e462648d[m
+Merge: 44700d2 df36c79
+Author: squirrel <ggoong8@gmail.com>
+Date:   Tue Jun 21 22:01:37 2022 +0900
+
+    Merge branch 'setting_topic' into dev
+
+[33mcommit df36c795d25b71c9d2ad931c8d06195b0814f607[m[33m ([m[1;32msetting_topic[m[33m)[m
+Author: squirrel <ggoong8@gmail.com>
+Date:   Tue Jun 21 21:57:52 2022 +0900
+
+    환경설정 완료
+
+[33mcommit 44700d20985d22ebf2e39b4a398afb280a128c62[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: 이원준 <94333033+squirrelchipmunk@users.noreply.github.com>
+Date:   Tue Jun 21 21:41:34 2022 +0900
+
+    Initial commit
